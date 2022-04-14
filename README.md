@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notriles
 - 👀 I’m interested in programming and games.
-- 🌱 I’m currently learning JavaScript and Java.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on discord bot.
 - 📫 Find me on Discord: Riles#0001
 
